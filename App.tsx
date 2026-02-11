@@ -1,6 +1,6 @@
 import { useEffect } from 'react';
 import { AppProvider, useApp } from './store';
-import { RainEffect } from './components/RainEffect';
+import RainEffect from "./RainEffect";
 import { BottomNav } from './components/BottomNav';
 import { SetupPage } from './components/SetupPage';
 import { HomePage } from './components/HomePage';
