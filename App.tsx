@@ -1,7 +1,7 @@
 import { useEffect } from 'react';
 import { AppProvider, useApp } from './store';
 import RainEffect from "./RainEffect";
-import { BottomNav } from './components/BottomNav';
+import BottomNav from "./BottomNav";
 import { SetupPage } from './components/SetupPage';
 import { HomePage } from './components/HomePage';
 import { ContactsPage } from './components/ContactsPage';
